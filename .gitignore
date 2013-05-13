@@ -1,6 +1,13 @@
 *.class
 *.log
 
+.project
+.idea/
+.idea_modules/
+.classpath
+.cache
+
+
 # sbt specific
 dist/*
 target/
