@@ -13,4 +13,3 @@ libraryDependencies ++= Seq(
   "com.chuusai" % "shapeless_2.10" % "1.2.4"
 )
 
-EclipseKeys.withSource := true
